@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menuli{
+    @apply  mt-2 border-l-4 p-2 border-white cursor-pointer  hover:border-green-600;
+}
+.menuliactive{
+    @apply border-purple-600;
+}
+
+
+.introduction{
+}
